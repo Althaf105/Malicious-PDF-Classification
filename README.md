@@ -1,2 +1,2 @@
-# Malicious-PDF-Detection
+# Malicious-PDF-Classification
 Classify PDF documents to be Malicious or Benign
